@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #
 # Calomel.org 
 #     https://calomel.org/megacli_lsi_commands.html
